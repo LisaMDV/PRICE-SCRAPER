@@ -67,7 +67,7 @@ const urls = [
 
 ## 📂 File Structure
 ```
-/home-depot-scraper
+/PRICE-SCRAPER
 │── CSVs/                # CSV output files
   |── Unsorted
   |── Sorted             # Final version of the CSVs HERE. Combine later to paste into Google sheets
