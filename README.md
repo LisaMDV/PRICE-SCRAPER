@@ -16,6 +16,18 @@ https://github.com/user-attachments/assets/5a6ebdd7-cd4e-4c2a-831e-5192013b5a87
 
 
 
+## 📂 File Structure
+```
+/PRICE-SCRAPER
+│── CSVs/                # CSV output files
+  |── Unsorted
+  |── Sorted             # Final version of the CSVs HERE. Combine later to paste into Google sheets
+  |── Merged
+│── cli.js               # Command-line interface script
+│── scraperWorker.js     # Puppeteer worker script
+│── sortProducts.py      # Used to sort PT and SPF names in csv from home depot
+│── README.md            # Documentation
+```
 
 
 
@@ -65,16 +77,4 @@ const urls = [
 ];
 ```
 
-## 📂 File Structure
-```
-/PRICE-SCRAPER
-│── CSVs/                # CSV output files
-  |── Unsorted
-  |── Sorted             # Final version of the CSVs HERE. Combine later to paste into Google sheets
-  |── Merged
-│── cli.js               # Command-line interface script
-│── scraperWorker.js     # Puppeteer worker script
-│── sortProducts.py      # Used to sort PT and SPF names in csv from home depot
-│── README.md            # Documentation
-```
 
