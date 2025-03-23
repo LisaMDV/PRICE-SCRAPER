@@ -10,7 +10,11 @@ This is a **Node.js CLI application** that scrapes product listings from Home De
 
 
 
-https://github.com/user-attachments/assets/cfc76086-76e8-4754-8475-9cdf3b0e1f1a
+
+
+https://github.com/user-attachments/assets/5a6ebdd7-cd4e-4c2a-831e-5192013b5a87
+
+
 
 
 
